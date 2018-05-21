@@ -1,0 +1,30 @@
+p{
+
+background-color: yellow;
+width:200px;
+border:2px dotted forestgreen;
+padding:50px;
+margin:100px;
+}
+
+body{
+	background: grey;
+}
+
+td{
+width:100px;
+height:100px;
+
+
+}
+
+.vertical{
+	border-left: 1px solid black;
+		border-right: 1px solid black;
+
+}
+.horizontal{
+	border-top: 1px solid black;
+		border-bottom: 1px solid black;
+
+}
